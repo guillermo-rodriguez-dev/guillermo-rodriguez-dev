@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-[Playstore account](https://play.google.com/store/apps/dev?id=8145965427498658049) 
-
-[Appstore account](https://apps.apple.com/us/developer/guillermo-rodriguez/id1611904530)
 
 Estoy estudiando en UTEC la [Licenciatura en IT](https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/)
 
-Estudie [Programacion web full stack](https://www.digitalhouse.com/productos/programacion/programacion-web-full-stack) en Digital House https://www.digitalhouse.com/productos/programacion/programacion-web-full-stack
+Estudie [Programacion web full stack](https://www.digitalhouse.com/productos/programacion/programacion-web-full-stack) en Digital House 
+
+Me interesa el desarrollo movil, web, y la inteligencia artificial. 
+
+[Playstore account](https://play.google.com/store/apps/dev?id=8145965427498658049)
+
+[Appstore account](https://apps.apple.com/us/developer/guillermo-rodriguez/id1611904530)
+
 <!--
 **guillermo-rodriguez-dev/guillermo-rodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
