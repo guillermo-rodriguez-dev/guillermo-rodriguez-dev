@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[Playstore account](https://play.google.com/store/apps/dev?id=8145965427498658049) 
+
+[Appstore account](https://apps.apple.com/us/developer/guillermo-rodriguez/id1611904530)
 <!--
 **guillermo-rodriguez-dev/guillermo-rodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
