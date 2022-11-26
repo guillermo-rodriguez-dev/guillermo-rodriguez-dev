@@ -5,7 +5,7 @@ Estoy estudiando en UTEC la [Licenciatura en IT](https://utec.edu.uy/es/educacio
 
 Estudie [Programacion web full stack](https://www.digitalhouse.com/productos/programacion/programacion-web-full-stack) en Digital House 🌱
 
-Me interesa el desarrollo movil, web, y la inteligencia artificial. ⚡
+Me interesa el desarrollo movil y web ⚡
 
 [Playstore account](https://play.google.com/store/apps/dev?id=8145965427498658049)
 
