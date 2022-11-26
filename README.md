@@ -7,7 +7,7 @@ Estudie [Programacion web full stack](https://www.digitalhouse.com/productos/pro
 
 Me interesa el desarrollo movil y web ⚡
 
-Tengo conocimientos de javascript, Java y Flutter 💬
+Tengo conocimientos de Javascript, Java y Flutter 💬
 
 Puedes ver algunos de mis projectos en este github o en mis cuentas de playstore/appstore ✨
 
