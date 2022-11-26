@@ -7,6 +7,10 @@ Estudie [Programacion web full stack](https://www.digitalhouse.com/productos/pro
 
 Me interesa el desarrollo movil y web ⚡
 
+Tengo conocimientos de javascript, Java y Flutter 💬
+
+Puedes ver algunos de mis projectos en este github o en mis cuentas de playstore/appstore ✨
+
 [Playstore account](https://play.google.com/store/apps/dev?id=8145965427498658049)
 
 [Appstore account](https://apps.apple.com/us/developer/guillermo-rodriguez/id1611904530)
