@@ -3,11 +3,11 @@
 
 Estoy estudiando en UTEC la [Licenciatura en IT](https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/) 🔭
 
-Estudie [Programacion web full stack](https://www.digitalhouse.com/productos/programacion/programacion-web-full-stack) en Digital House 🌱
+Estudie Programacion web full stack con Javascript - React/Node 🌱
 
 Me interesa el desarrollo movil y web ⚡
 
-Tengo conocimientos de Javascript, Java y Flutter 💬
+Soy desarrollador Movile con Flutter 💬
 
 Puedes ver algunos de mis projectos en este github o en mis cuentas de playstore/appstore ✨
 
