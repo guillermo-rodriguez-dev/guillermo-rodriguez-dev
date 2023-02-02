@@ -7,7 +7,7 @@ Estudie Programacion web full stack con Javascript - React/Node 🌱
 
 Me interesa el desarrollo movil y web ⚡
 
-Soy desarrollador Movile con Flutter 💬
+Soy desarrollador movil con Flutter 💬
 
 Puedes ver algunos de mis projectos en este github o en mis cuentas de playstore/appstore ✨
 
