@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Estoy estudiando en UTEC la [Licenciatura en IT](https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/) 🔭
+[Licenciado en IT](https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/) por la Universidad Tecnologica del Uruguay🔭
 
 Estudie Programacion web full stack con Javascript - React/Node 🌱
 
