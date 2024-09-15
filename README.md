@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[Licenciado en Tecnologias de la Informacion](https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/) por la Universidad Tecnologica del Uruguay🔭
+Licenciado en [Tecnologias de la Informacion](https://utec.edu.uy/es/educacion/carrera/licenciatura-en-tecnologias-de-la-informacion/) por la Universidad Tecnologica del Uruguay🔭
 
 Estudie Programacion web full stack con Javascript - React/Node 🌱
 
