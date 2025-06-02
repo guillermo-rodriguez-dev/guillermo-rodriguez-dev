@@ -17,8 +17,6 @@ Puedes ver algunos de mis projectos en este github o en mis cuentas de playstore
 
 [Linkedin](https://www.linkedin.com/in/guillermo-rodriguez-dev/)
 
-[Workana](https://www.workana.com/freelancer/95d1be220bfcd5b7a03e853193b08c7a)
-
 <!--
 **guillermo-rodriguez-dev/guillermo-rodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
